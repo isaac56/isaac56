@@ -1,5 +1,4 @@
-### Hi My name is Isaac 👋
-<br>  
+### Hi My name is Isaac 👋  
  - 클린 코드를 지향합니다.  
  - 조급하지 않게, 꾸준히 성장하고 싶습니다.  
  - [공부 블로그](https://isaac56.github.io)를 운영하고 있습니다.  
