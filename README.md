@@ -4,7 +4,7 @@
  - [공부 블로그](https://isaac56.github.io)를 운영하고 있습니다.  
 
 ![isaac56's github stats](https://github-readme-stats.vercel.app/api?username=isaac56&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac56&layout=compact&theme=radical)](https://github.com/knae11/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac56&layout=compact&theme=radical)
 
 <!--
 **isaac56/isaac56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
