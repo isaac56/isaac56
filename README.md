@@ -1,7 +1,6 @@
 ### Hi My name is Isaac 👋  
- - 클린 코드를 지향합니다.  
- - 조급하지 않게, 꾸준히 성장하고 싶습니다.  
- - [공부 블로그](https://isaac56.github.io)를 운영하고 있습니다.  
+ - 조급해하지 않기
+ - 천천히라도 꾸준히 
 
 ![isaac56's github stats](https://github-readme-stats.vercel.app/api?username=isaac56&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac56&layout=compact&theme=radical)
