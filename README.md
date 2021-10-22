@@ -1,6 +1,6 @@
 ### Hi My name is Isaac 👋  
  - 조급해하지 않기
- - 천천히라도 꾸준히 
+ - 천천히라도 꾸준히 성장하기
 
 ![isaac56's github stats](https://github-readme-stats.vercel.app/api?username=isaac56&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac56&layout=compact&theme=radical)
